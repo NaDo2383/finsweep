@@ -1,0 +1,158 @@
+body {
+    font-family: 'Poppins', sans-serif;    
+}
+.navbar {
+    display: flex!important;
+    max-width: 1280px!important;
+    height: 52px!important;
+    margin: 0 auto!important;
+    justify-content: space-between!important;
+    align-items: center!important;
+}
+.container1 {
+    display: flex!important;
+    justify-content: space-between!important;
+    align-items: center!important;
+    width: 657px!important;
+}
+.nav-items {
+    width: 437px!important;
+    display: flex!important;
+    justify-content: space-between!important;
+    
+}
+.button1 {
+    width: 173px!important;
+    height: 52px!important;
+    color:rgba(245, 138, 7, 1)!important;
+    background-color: rgba(245, 138, 7, 0.1)!important;
+    border-radius: 31px!important;
+    display: flex!important;
+    justify-content: center!important;
+    align-items: center!important;
+}
+a {
+    height: 0 auto!important;
+    text-decoration: none!important;
+    color: #394149!important;
+}
+section {
+    margin-top: 100px;
+}
+footer {
+    background-color: rgba(6, 50, 85, 1)!important;
+    display: flex!important;
+    justify-content: center!important;
+}
+footer .footer-content {
+    display: flex!important;
+    flex-direction: column!important;
+    max-width: 1280px!important;
+    gap: 110px!important;
+}
+footer .footer-sub {
+    display: flex!important;
+    flex-direction: row!important;
+}
+footer .footer-sub1 {
+    display: flex!important;
+}
+footer {
+    background-color: rgba(6, 50, 85, 1)!important;
+    display: flex!important;
+    justify-content: center!important;
+    padding: 80px 0px 80px 0px!important;
+    color: rgba(255, 255, 255, 1)!important;
+    position: relative!important;
+}
+footer .footer-content {
+    display: flex!important;
+    flex-direction: column!important;
+    max-width: 1280px!important;
+    justify-content: space-between!important;
+}
+.footer-sub {
+    display: flex!important;
+    justify-content: space-between!important;
+    width: 1280px!important;
+}
+.footer-sub1 {
+    display: flex!important;
+    justify-content: space-between!important;
+    width: 1280px!important;
+}
+.footer-sub1-1 {
+    display: flex!important;
+    gap: 32px!important;
+}
+footer p {
+    color: rgba(255, 255, 255, 1)!important;
+    font-size: 24px!important;
+}
+footer .header4 {
+    font-size: 27px!important;
+}
+#footer-moto {
+    font-size: 36px!important;
+    max-width: 351px!important;
+}
+.footer-logos {
+    max-width: 136px!important;
+    display: flex!important;
+    justify-content: space-between!important;
+    margin-top: 36px!important;
+}
+#type-email {
+    font-size: 19px!important;
+    color: rgba(156, 156, 156, 1)!important;
+    background-color: rgba(255, 255, 255, 1)!important;
+    border-radius: 31px!important;
+    padding: 18px 188px 18px 32px!important;
+    margin-top: 24px!important;
+}
+.button6 {
+    background-color: rgba(245, 138, 7, 1)!important;
+    padding: 18px 32px 18px 32px!important;
+    border-radius: 31px!important;
+    position: absolute!important;
+    top: 145px!important;
+}
+#footer-email {
+    display: flex!important;
+    flex-direction: column!important;
+    position: relative!important;
+}
+#footer-shape-1 {
+    position: absolute!important;
+    left: 0px!important;
+    bottom: -8px!important;
+}
+#footer-shape-2 {
+    position: absolute!important;
+    right: 0px!important;
+    top: 38px!important;
+}
+.footer-email-input {
+    border: none!important;
+    font-size: 18px!important;
+    border-radius: 31px!important;
+    padding: 18px 188px 17px 32px!important;
+    margin-top: 24px!important;
+    font-family: 'Poppins', sans-serif!important;  
+}
+.footer-subscribe-button {
+    background-color: rgba(245, 138, 7, 1)!important;
+    color: rgba(255, 255, 255, 1)!important; 
+    font-size: 18px!important;
+    font-family: 'Poppins', sans-serif!important; 
+    padding: 18px 32px 18px 32px!important;
+    border-radius: 31px!important;
+    width: 46%!important;
+    min-width: 120px!important;
+    margin-top: 16px!important;
+}
+footer ::placeholder {
+    font-size: 16px!important;
+    padding-top: 17px!important; 
+    font-family: 'Poppins', sans-serif!important;  
+}
